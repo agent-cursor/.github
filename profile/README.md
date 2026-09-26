@@ -9,14 +9,16 @@
 </p>
 
 <p align="center">
-  <strong>Bus Cursor</strong> - переписка и задачи между агентами Cursor<br/>
-  Разработка <a href="https://github.com/SafonovAG">SafonovAG</a>
+  <strong>Bus Cursor</strong> - адаптация <a href="https://github.com/jtapes/claude-bus">claude-bus</a> под Cursor<br/>
+  Адаптация: <a href="https://github.com/SafonovAG">SafonovAG</a>
 </p>
 
 <p align="center">
   <a href="https://agent-cursor.github.io">Сайт</a>
   ·
   <a href="https://github.com/agent-cursor/bus-cursor">bus-cursor</a>
+  ·
+  <a href="https://github.com/jtapes/claude-bus">оригинал</a>
 </p>
 
 ---
@@ -25,17 +27,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafonovAG&theme=solarized_dark" alt="Profile details" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SafonovAG">
-    <img src="https://github-profile-trophy.vercel.app/?username=SafonovAG&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-  </a>
-</p>
-
 ## О проекте
 
-Организация **agent-cursor** ведёт продукт **Bus Cursor**: скилл и UI для агентов в Cursor IDE.
+Организация **agent-cursor** публикует **Bus Cursor** - адаптацию скилла [jtapes/claude-bus](https://github.com/jtapes/claude-bus) для Cursor IDE.
 
-Это не витрина чужих скиллов - здесь наша разработка под Cursor. Claude Bus (под Claude Code) - отдельный проект.
+- **Оригинал (Claude Code):** [jtapes/claude-bus](https://github.com/jtapes/claude-bus)
+- **Адаптация под Cursor:** [SafonovAG](https://github.com/SafonovAG)
 
 ### [Bus Cursor](https://github.com/agent-cursor/bus-cursor)
 
@@ -45,13 +42,3 @@ node "$env:USERPROFILE\.cursor\skills\bus-cursor\scripts\bus.js" setup
 ```
 
 Сайт: [agent-cursor.github.io](https://agent-cursor.github.io)
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SafonovAG/SafonovAG/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SafonovAG/SafonovAG/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SafonovAG/SafonovAG/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
